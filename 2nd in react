@@ -1,0 +1,1224 @@
+var NewComponent = React.createClass({
+  render: function() {
+    return (
+      <div>
+        {/* Hello world */}
+        <div className="awesome" style={{border: '1px solid red'}}>
+          <label htmlFor="name">Enter your name: </label>
+          <input type="text" id="name" />
+        </div>
+        <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="canonical" href="https://www.apple.com/apple-card/monthly-installments/" />
+        {/*no hreflang found*/}
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <link rel="stylesheet" type="text/css" href="./2nd page_files/ac-globalnav.built.css" />
+        <link rel="stylesheet" type="text/css" href="./2nd page_files/ac-localnav.built.css" />
+        <link rel="stylesheet" type="text/css" href="./2nd page_files/ac-globalfooter.built.css" />
+        <title>Apple Card - Monthly Installments - Apple</title>
+        <meta name="Description" content="Apple Card Monthly Installments lets you pay for new Apple products with interest-free, low monthly payments. And get 3% Daily Cash back, all up front." />
+        <meta property="og:image" content="https://www.apple.com/v/apple-card/f/images/meta/og_monthly__bdhiers03j36_installments.png?202007020844" />
+        <meta property="og:title" content="Apple Card - Monthly Installments" />
+        <meta property="og:description" content="Apple Card Monthly Installments lets you pay for new Apple products with interest-free, low monthly payments. And get 3% Daily Cash back, all up front." />
+        <meta property="og:url" content="https://www.apple.com/apple-card/monthly-installments/" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:site_name" content="Apple" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:site" content="@Apple" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="analytics-track" content="apple card : monthly installments" />
+        <meta property="analytics-s-channel" content="applecard" />
+        <meta property="analytics-s-bucket-0" content="appleglobal,applestoreww" />
+        <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,applestoreww" />
+        <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global,applestoreww" />
+        <link rel="stylesheet" href="./2nd page_files/fonts" />
+        <link rel="stylesheet" href="./2nd page_files/main.built.css" type="text/css" />
+        <link rel="stylesheet" href="./2nd page_files/monthly-installments.built.css" type="text/css" />
+        <meta name="ac-gn-store-key" content="SFX9YPYY9PPXCU9KH" />
+        <aside id="ac-gn-segmentbar" className="ac-gn-segmentbar" lang="en-US" dir="ltr" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }" />
+        <input type="checkbox" id="ac-gn-menustate" className="ac-gn-menustate" />
+        <nav id="ac-globalnav" className="js no-touch windows with-bag-count-onload with-bag-count" role="navigation" aria-label="Global" data-hires="false" data-analytics-region="global nav" lang="en-US" dir="ltr" data-www-domain="www.apple.com" data-store-locale="us" data-store-root-path="/us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-suggestions-api="/search-services/suggestions/" data-search-defaultlinks-api="/search-services/suggestions/defaultlinks/">
+          <div className="ac-gn-content">
+            <ul className="ac-gn-header">
+              <li className="ac-gn-item ac-gn-menuicon">
+                <label className="ac-gn-menuicon-label" htmlFor="ac-gn-menustate" aria-hidden="true">
+                  <span className="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+                    <span className="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top" />
+                  </span>
+                  <span className="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+                    <span className="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom" />
+                  </span>
+                </label>
+                <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gn-menustate" role="button" className="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+                  <span className="ac-gn-menuanchor-label">Global Nav Open Menu</span>
+                </a>
+                <a href="https://www.apple.com/apple-card/monthly-installments/#" role="button" className="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+                  <span className="ac-gn-menuanchor-label">Global Nav Close Menu</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-apple">
+                <a className="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small">
+                  <span className="ac-gn-link-text">Apple</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-bag ac-gn-bag-small with-badge" id="ac-gn-bag-small">
+                <div className="ac-gn-bag-wrapper">
+                  <a className="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/us/shop/goto/bag" data-analytics-title="bag | items" data-analytics-click="bag" aria-label="Shopping Bag with item count : 2" data-string-badge="Shopping Bag with item count :" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="ac-gn-bagview-content">
+                    <span className="ac-gn-link-text">Shopping Bag</span>
+                  </a>
+                  <span className="ac-gn-bag-badge">
+                    <span className="ac-gn-bag-badge-separator" />
+                    <span className="ac-gn-bag-badge-number">2</span>
+                    <span className="ac-gn-bag-badge-unit">+</span>
+                  </span>
+                </div>
+                <span className="ac-gn-bagview-caret ac-gn-bagview-caret-large" />
+              </li>
+            </ul>
+            <div className="ac-gn-search-placeholder-container" role="search">
+              <div className="ac-gn-search ac-gn-search-small">
+                <a id="ac-gn-link-search-small" className="ac-gn-link" href="https://www.apple.com/us/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="Search apple.com" role="button" aria-haspopup="true">
+                  <div className="ac-gn-search-placeholder-bar">
+                    <div className="ac-gn-search-placeholder-input">
+                      <div className="ac-gn-search-placeholder-input-text" aria-hidden="true">
+                        <div className="ac-gn-link-search ac-gn-search-placeholder-input-icon" />
+                        <span className="ac-gn-search-placeholder">Search apple.com</span>
+                      </div>
+                    </div>
+                    <div className="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+                      <span className="ac-gn-searchview-close-cancel" aria-hidden="true">Cancel</span>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <ul className="ac-gn-list">
+              <li className="ac-gn-item ac-gn-apple">
+                <a className="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus">
+                  <span className="ac-gn-link-text">Apple</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                <a className="ac-gn-link ac-gn-link-mac" href="https://www.apple.com/mac/" data-analytics-title="mac">
+                  <span className="ac-gn-link-text">Mac</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                <a className="ac-gn-link ac-gn-link-ipad" href="https://www.apple.com/ipad/" data-analytics-title="ipad">
+                  <span className="ac-gn-link-text">iPad</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                <a className="ac-gn-link ac-gn-link-iphone" href="https://www.apple.com/iphone/" data-analytics-title="iphone">
+                  <span className="ac-gn-link-text">iPhone</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                <a className="ac-gn-link ac-gn-link-watch" href="https://www.apple.com/watch/" data-analytics-title="watch">
+                  <span className="ac-gn-link-text">Watch</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                <a className="ac-gn-link ac-gn-link-tv" href="https://www.apple.com/tv/" data-analytics-title="tv">
+                  <span className="ac-gn-link-text">TV</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-music">
+                <a className="ac-gn-link ac-gn-link-music" href="https://www.apple.com/music/" data-analytics-title="music">
+                  <span className="ac-gn-link-text">Music</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-support">
+                <a className="ac-gn-link ac-gn-link-support" href="https://support.apple.com/" data-analytics-title="support">
+                  <span className="ac-gn-link-text">Support</span>
+                </a>
+              </li>
+              <li className="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                <a id="ac-gn-link-search" className="ac-gn-link ac-gn-link-search" href="https://www.apple.com/us/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="Search apple.com" role="button" aria-haspopup="true" />
+              </li>
+              <li className="ac-gn-item ac-gn-bag with-badge" id="ac-gn-bag">
+                <div className="ac-gn-bag-wrapper">
+                  <a className="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/us/shop/goto/bag" data-analytics-title="bag | items" data-analytics-click="bag" aria-label="Shopping Bag with item count : 2" data-string-badge="Shopping Bag with item count : {%BAGITEMCOUNT%}" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="ac-gn-bagview-content">
+                    <span className="ac-gn-link-text">Shopping Bag</span>
+                  </a>
+                  <span className="ac-gn-bag-badge" aria-hidden="true">
+                    <span className="ac-gn-bag-badge-separator" />
+                    <span className="ac-gn-bag-badge-number">2</span>
+                    <span className="ac-gn-bag-badge-unit">+</span>
+                  </span>
+                </div>
+                <span className="ac-gn-bagview-caret ac-gn-bagview-caret-large" />
+              </li>
+            </ul>
+            <aside id="ac-gn-searchview" className="ac-gn-searchview" role="search" data-analytics-region="search">
+              <div className="ac-gn-searchview-content">
+                <div className="ac-gn-searchview-bar">
+                  <div className="ac-gn-searchview-bar-wrapper">
+                    <form id="ac-gn-searchform" className="ac-gn-searchform" action="https://www.apple.com/us/search" method="get">
+                      <div className="ac-gn-searchform-wrapper">
+                        <input id="ac-gn-searchform-input" className="ac-gn-searchform-input" type="text" aria-label="Search apple.com" placeholder="Search apple.com" autoCorrect="off" autoCapitalize="off" autoComplete="off" spellCheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" />
+                        <input id="ac-gn-searchform-src" type="hidden" name="src" defaultValue="globalnav" />
+                        <button id="ac-gn-searchform-submit" className="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit Search" />
+                        <button id="ac-gn-searchform-reset" className="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search">
+                          <span className="ac-gn-searchform-reset-background" />
+                        </button>
+                      </div>
+                    </form>
+                    <button id="ac-gn-searchview-close-small" className="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="Cancel Search">
+                      <span className="ac-gn-searchview-close-cancel" aria-hidden="true">
+                        Cancel
+                      </span>
+                    </button>
+                  </div>
+                </div>
+                <aside id="ac-gn-searchresults" className="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults>
+                  <section className="ac-gn-searchresults-section ac-gn-searchresults-section-defaultlinks" data-analytics-region="defaultlinks search">
+                    <div className="ac-gn-searchresults-section-wrapper">
+                      <h3 className="ac-gn-searchresults-header ac-gn-searchresults-animated">
+                        Quick Links
+                      </h3>
+                      <ul className="ac-gn-searchresults-list" id="defaultlinks" role="listbox">
+                        <li className="ac-gn-searchresults-item ac-gn-searchresults-animated" role="presentation">
+                          <a href="https://covid19.apple.com/screening/" role="option" className="ac-gn-searchresults-link ac-gn-searchresults-link-defaultlinks" data-query="no keyword" data-section="defaultlinks" data-items={5} data-index={0} data-label="COVID-19 Information" data-analytics-click="eVar23: {data-query} | {data-section} | {data-items} | {data-label} | {data-index}, events:event50">COVID-19 Information</a>
+                        </li>
+                        <li className="ac-gn-searchresults-item ac-gn-searchresults-animated" role="presentation">
+                          <a href="https://www.apple.com/us/shop/goto/temporary_closures" role="option" className="ac-gn-searchresults-link ac-gn-searchresults-link-defaultlinks" data-query="no keyword" data-section="defaultlinks" data-items={5} data-index={1} data-label="Apple Store Closure FAQ" data-analytics-click="eVar23: {data-query} | {data-section} | {data-items} | {data-label} | {data-index}, events:event50">Apple Store Closure FAQ</a>
+                        </li>
+                        <li className="ac-gn-searchresults-item ac-gn-searchresults-animated" role="presentation">
+                          <a href="https://www.apple.com/us/shop/goto/shop" role="option" className="ac-gn-searchresults-link ac-gn-searchresults-link-defaultlinks" data-query="no keyword" data-section="defaultlinks" data-items={5} data-index={2} data-label="Shop Apple Store Online" data-analytics-click="eVar23: {data-query} | {data-section} | {data-items} | {data-label} | {data-index}, events:event50">Shop Apple Store Online</a>
+                        </li>
+                        <li className="ac-gn-searchresults-item ac-gn-searchresults-animated" role="presentation">
+                          <a href="https://www.apple.com/us/shop/goto/accessories/apple_accessories" role="option" className="ac-gn-searchresults-link ac-gn-searchresults-link-defaultlinks" data-query="no keyword" data-section="defaultlinks" data-items={5} data-index={3} data-label="Accessories" data-analytics-click="eVar23: {data-query} | {data-section} | {data-items} | {data-label} | {data-index}, events:event50">Accessories</a>
+                        </li>
+                        <li className="ac-gn-searchresults-item ac-gn-searchresults-animated" role="presentation">
+                          <a href="https://www.apple.com/airpods/" role="option" className="ac-gn-searchresults-link ac-gn-searchresults-link-defaultlinks" data-query="no keyword" data-section="defaultlinks" data-items={5} data-index={4} data-label="AirPods" data-analytics-click="eVar23: {data-query} | {data-section} | {data-items} | {data-label} | {data-index}, events:event50">AirPods</a>
+                        </li>
+                      </ul>
+                      <span role="status" className="ac-gn-searchresults-count" aria-live="polite">5 Quick Links</span>
+                    </div>
+                  </section>
+                </aside>
+              </div>
+              <button id="ac-gn-searchview-close" className="ac-gn-searchview-close" aria-label="Cancel Search">
+                <span className="ac-gn-searchview-close-wrapper">
+                  <span className="ac-gn-searchview-close-left" />
+                  <span className="ac-gn-searchview-close-right" />
+                </span>
+              </button>
+            </aside>
+            <aside className="ac-gn-bagview" data-analytics-region="bag">
+              <div className="ac-gn-bagview-scrim">
+                <span className="ac-gn-bagview-caret ac-gn-bagview-caret-small" />
+              </div>
+              <div className="ac-gn-bagview-content" id="ac-gn-bagview-content" />
+            </aside>
+          </div>
+        </nav>
+        <div className="ac-gn-blur" />
+        <div id="ac-gn-curtain" className="ac-gn-curtain" />
+        <div id="ac-gn-placeholder" className="ac-nav-placeholder" />
+        <div id="ac-gn-viewport-emitter" />
+        <input type="checkbox" id="ac-ln-menustate" className="ac-ln-menustate" />
+        <div id="ac-ln-sticky-placeholder" className="css-sticky" />
+        <nav id="ac-localnav" className="js no-touch css-sticky" lang="en-US" dir="ltr" data-sticky data-analytics-region="local nav" role="navigation" aria-label="Local">
+          <div className="ac-ln-wrapper">
+            <div className="ac-ln-background" />
+            <div className="ac-ln-content">
+              <div className="ac-ln-title">
+                <a href="https://www.apple.com/apple-card/" data-analytics-title="product index">
+                  Apple Card
+                </a>
+              </div>
+              <div className="ac-ln-menu">
+                <a href="https://www.apple.com/apple-card/monthly-installments/#ac-ln-menustate" className="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open" role="button">
+                  <span className="ac-ln-menucta-anchor-label">Local Nav Open Menu</span>
+                </a>
+                <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close" role="button">
+                  <span className="ac-ln-menucta-anchor-label">Local Nav Close Menu</span>
+                </a>
+                <div className="ac-ln-menu-tray">
+                  <ul className="ac-ln-menu-items">
+                    <li className="ac-ln-menu-item">
+                      <a href="https://www.apple.com/apple-card/" className="ac-ln-menu-link" data-analytics-title="overview">Overview</a>
+                    </li>
+                    <li className="ac-ln-menu-item">
+                      <a href="https://www.apple.com/apple-card/features/" className="ac-ln-menu-link" data-analytics-title="features">Features</a>
+                    </li>
+                    <li className="ac-ln-menu-item">
+                      <span className="ac-ln-menu-link current" role="link" aria-disabled="true" aria-current="page" data-analytics-title="monthly-installments">Monthly Installments</span>
+                    </li>
+                    <li className="ac-ln-menu-item">
+                      <a href="https://www.apple.com/apple-card/how-to/" className="ac-ln-menu-link" data-analytics-title="how-to">How-To Films</a>
+                    </li>
+                  </ul>
+                </div>
+                <div className="ac-ln-actions">
+                  <div className="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                    <label htmlFor="ac-ln-menustate" className="ac-ln-menucta">
+                      <span className="ac-ln-menucta-chevron" />
+                    </label>
+                  </div>
+                  <div className="ac-ln-action ac-ln-action-button">
+                    <button className="ac-ln-button ac-ln-button-apply initialized" data-analytics-title="click | apply now" data-analytics-click="prop3: click | apply now" data-apply-action="https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=" data-referrer="cid%3Dapy-200-100001" aria-label="apply now for apple card" data-relay-id="{'287': 'referrer'}">
+                      Apply now <span className="ac-ln-action-product" />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <label id="ac-ln-curtain" htmlFor="ac-ln-menustate" />
+        <div id="ac-ln-viewport-emitter" data-viewport-emitter-dispatch data-viewport-emitter-state="{&quot;viewport&quot;:&quot;large&quot;,&quot;orientation&quot;:&quot;landscape&quot;,&quot;retina&quot;:false}" />
+        <main id="main" className="main" role="main" data-page-type="monthly-installments" data-anim-scroll-group="bubble-gum-group">
+          <section className="section section-hero no-pad-bottom" data-analytics-section-engagement="name:hero">
+            <div className="section-content no-pad">
+              <div className="row hero-copy">
+                <h1 className="typography-acmi-hero-eyebrow large-12 medium-10 medium-offset-1 small-12 small-offset-0" data-text-zoom-max="1.33">
+                  Apple&nbsp;Card&nbsp;<br className="text-zoom-br" />Monthly&nbsp;Installments
+                </h1>
+                <h2 className="bg-gradient typography-acmi-hero-headline large-11 large-centered small-12 small-offset-0" data-text-zoom-max="1.4">
+                  Pay for your new Apple products over time, interest‑<br className="text-zoom-br" />free.<sup className="footnote"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-2" aria-label="Footnote 1">1</a></sup>
+                </h2>
+                <figure className="hero-image" />
+              </div>
+              <div className="hero-features">
+                <div className="feature-item item-0 animate" data-component-list="TriggerAnimation" data-anim-keyframes="[{&quot;start&quot;: &quot;a0t - 95vh&quot;, &quot;end&quot;: &quot;a0b&quot;}]">
+                  <div className="feature-keyline" />
+                  <div className="features-copy-block">
+                    <figure className="feature-icon icon-low-monthly" />
+                    <p className="feature-headline typography-headline-reduced" data-text-zoom-max="1.4">
+                      Low monthly payments.<br />
+                      Zero interest.
+                    </p>
+                  </div>
+                </div>
+                <div className="feature-item item-1" data-component-list="TriggerAnimation" data-anim-keyframes="[{&quot;start&quot;: &quot;a0t - 95vh&quot;, &quot;end&quot;: &quot;a0b&quot;}]">
+                  <div className="feature-keyline" />
+                  <div className="features-copy-block">
+                    <figure className="feature-icon icon-daily-cash" />
+                    <p className="feature-headline typography-headline-reduced" data-text-zoom-max="1.4">
+                      Get 3% Daily&nbsp;Cash back.<br className="small" />
+                      All up&nbsp;front.
+                    </p>
+                  </div>
+                </div>
+                <div className="feature-item item-2" data-component-list="TriggerAnimation" data-anim-keyframes="[{&quot;start&quot;: &quot;a0t - 95vh&quot;, &quot;end&quot;: &quot;a0b&quot;}]">
+                  <div className="feature-keyline" />
+                  <div className="features-copy-block">
+                    <figure className="feature-icon icon-trade-in" />
+                    <p className="feature-headline typography-headline-reduced" data-text-zoom-max="1.4">
+                      Trade in your current device. Pay&nbsp;even less
+                      per&nbsp;month.<sup className="footnote"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-3" aria-label="Footnote 2">2</a></sup>
+                    </p>
+                  </div>
+                </div>
+                <div className="feature-item item-3" data-component-list="TriggerAnimation" data-anim-keyframes="[{&quot;start&quot;: &quot;a0t - 95vh&quot;, &quot;end&quot;: &quot;a0b&quot;}]">
+                  <div className="feature-keyline" />
+                  <div className="features-copy-block">
+                    <figure className="feature-icon icon-easy-apply" />
+                    <p className="feature-headline typography-headline-reduced" data-text-zoom-max="1.4">
+                      Only&nbsp;at&nbsp;Apple.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section className="section section-how-it-works background-alt" data-analytics-section-engagement="name:how it works">
+            <div className="section-borders" data-component-list="BorderComponent">
+              <div data-scale="{&quot;start&quot;: &quot;a0b - 50vh&quot;, &quot;end&quot;:&quot;a0b - 10vh&quot;}">
+                <div className="white-border left-border" style={{transform: 'matrix(1, 0, 0, 1, 0, 0)'}} />
+                <div className="white-border right-border" style={{transform: 'matrix(1, 0, 0, 1, 0, 0)'}} />
+              </div>
+            </div>
+            <div className="section-content small-content" data-component-list="StickyGallery">
+              <h2 className="large-12 medium-10 medium-offset-1 small-12 small-offset-0 bg-gradient typography-hiw-section-headline hiw-headline">
+                How does Apple Card Monthly Installments work?
+              </h2>
+              <div className="container row">
+                <div className="sticky-content large-5">
+                  <div className="device-container">
+                    <figure className="image-iphone-hardware" />
+                    <figure className="image-screen-daily-cash screen" />
+                    <figure className="image-screen-balance screen" />
+                    <figure className="image-screen-installments screen" />
+                    <figure className="image-screen-checkout screen" />
+                    <figure className="image-screen-wallet screen" />
+                  </div>
+                </div>
+                <div className="hiw-gallery-copy large-6 large-offset-1 small-12 small-offset-0">
+                  <div className="copy-block" style={{marginTop: '142px', marginBottom: '316.5px'}}>
+                    <h3 className="typography-hiw-gallery-headline">
+                      Apple&nbsp;Card <br />Monthly Installments
+                      is&nbsp;a&nbsp;feature&nbsp;of Apple&nbsp;Card.
+                    </h3>
+                    <p className="typography-hiw-gallery-body">
+                      Apple&nbsp;Card lives on your iPhone, in the Wallet app. You
+                      can sign up in as little as a minute and start using it
+                      right&nbsp;away.<span className="footnote footnote-supglyph"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-1" aria-label="Footnote * symbol">*</a></span>
+                    </p>
+                    <div className="wallet-copy-container">
+                      <figure className="image image-wallet" aria-hidden="true" />
+                      <p className="typography-hiw-gallery-caption wallet-caption">
+                        To apply, open the Wallet&nbsp;app <br className="small" />on
+                        your iPhone and&nbsp;tap<span className="visuallyhidden">
+                          plus sign</span>
+                      </p>
+                    </div>
+                    <button aria-label="apply for apple card" className="button button-apply initialized" data-apply-action="https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=" data-referrer="cid%3Dapy-200-100002" data-analytics-click="prop3:click | apply for apple card" data-analytics-title="click | apply now" data-rid-relay="{&quot;287&quot;: &quot;referrer&quot;}">
+                      Apply for Apple Card
+                    </button>
+                    <div className="iphone-container-small">
+                      <figure className="image-iphone-hardware" />
+                      <figure className="image-screen-wallet screen-small" />
+                    </div>
+                  </div>
+                  <div className="copy-block" data-change-screen style={{marginBottom: '348.5px'}}>
+                    <h3 className="typography-hiw-gallery-headline">
+                      Select Apple&nbsp;Card Monthly Installments
+                      when&nbsp;you&nbsp;shop.
+                    </h3>
+                    <p className="typography-hiw-gallery-body">
+                      Whether you shop on apple.com, on the Apple&nbsp;Store app, or
+                      at an Apple&nbsp;Store, simply choose Apple&nbsp;Card Monthly
+                      Installments as your payment option when you make
+                      your&nbsp;purchase.
+                    </p>
+                    <div className="iphone-container-small">
+                      <figure className="image-iphone-hardware" />
+                      <figure className="image-screen-checkout screen-small" />
+                    </div>
+                  </div>
+                  <div className="copy-block" data-change-screen style={{marginBottom: '360px'}}>
+                    <h3 className="typography-hiw-gallery-headline">
+                      Easily view your installments&nbsp;in&nbsp;the
+                      <br className="small" />Wallet&nbsp;app.
+                    </h3>
+                    <p className="typography-hiw-gallery-body">
+                      Your monthly installments live alongside your everyday
+                      Apple&nbsp;Card purchases in the Wallet app. So it’s easy to
+                      see your installments, remaining balance, and
+                      payment&nbsp;history.
+                    </p>
+                    <div className="iphone-container-small">
+                      <figure className="image-iphone-hardware" />
+                      <figure className="image-screen-installments screen-small" />
+                    </div>
+                  </div>
+                  <div className="copy-block" data-change-screen style={{marginBottom: '372px'}}>
+                    <h3 className="typography-hiw-gallery-headline">
+                      One balance to track and&nbsp;pay.
+                    </h3>
+                    <p className="typography-hiw-gallery-body">
+                      Your monthly installment is automatically added to the minimum
+                      payment due on your Apple&nbsp;Card&nbsp;— including any
+                      associated AppleCare+ coverage. And if you’ve purchased
+                      multiple products, you’ll still only have one balance
+                      to&nbsp;pay.<sup className="footnote"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-4" aria-label="Footnote 3">3</a></sup>
+                    </p>
+                    <div className="iphone-container-small">
+                      <figure className="image-iphone-hardware" />
+                      <figure className="image-screen-balance screen-small" />
+                    </div>
+                  </div>
+                  <div className="copy-block" data-change-screen style={{marginBottom: '186px'}}>
+                    <h3 className="typography-hiw-gallery-headline">
+                      Get Daily&nbsp;Cash <br className="medium" />you can use
+                      right&nbsp;away.
+                    </h3>
+                    <p className="typography-hiw-gallery-body">
+                      You get 3% Daily&nbsp;Cash back on the purchase price of your
+                      new Apple product&nbsp;— all up front. It’s deposited to your
+                      Apple&nbsp;Cash card in the Wallet app right away, and it’s
+                      ready to use whenever and however you&nbsp;want.<sup className="footnote"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-5" aria-label="Footnote 4">4</a></sup>
+                    </p>
+                    <div className="iphone-container-small">
+                      <figure className="image-iphone-hardware" />
+                      <figure className="image-screen-daily-cash screen-small" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section className="section section-featured-products" data-analytics-section-engagement="name:featured products">
+            <div className="section-content no-pad">
+              <h2 className="typography-hiw-section-headline section-headline bg-gradient large-12">
+                Featured products.
+              </h2>
+              <div className="product-table row large-12 large-centered">
+                <div className="content-row">
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-iphone" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        iPhone
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 229 dollars or 9 dollars and 54 cents per month for 24 month with trade-in" role="text">From $229 or<br />$9.54/mo. for 24 mo.<br />with
+                          trade-in</span><sup className="footnote"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-3" aria-label="Footnote 2">2</a></sup>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-mac" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        Mac
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 999 dollars or 83 dollars and 25 cents per month for 12 months" role="text">From $999 or<br />$83.25/mo. for 12 mo.</span>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-ipad" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        iPad
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 329 dollars or 27 dollars and 41 cents per month for 12 months" role="text">From $329 or<br />$27.41/mo. for 12 mo.</span>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-airpods" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        AirPods
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 159 dollars or 26 dollars and 50 cents per month for 6 months" role="text">From $159 or<br />$26.50/mo. for 6 mo.</span>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-homepod" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        HomePod
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 299 dollars or 49 dollars and 83 cents per month for 6 months" role="text">From $299 or<br />$49.83/mo. for 6 mo.</span>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-column">
+                    <div className="content-wrapper">
+                      <figure className="product-image image-option-atv" />
+                      <h3 className="product-headline typography-eyebrow-reduced" data-text-zoom-max="1.6">
+                        Apple&nbsp;TV
+                      </h3>
+                      <p className="description typography-featured-products-description">
+                        <span aria-label="From 179 dollars or 29 dollars and 83 cents per month for 6 months" role="text">From $179 or<br />$29.83/mo. for 6 mo.</span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="button-row">
+                  <a aria-label="see all eligible products" href="https://support.apple.com/kb/HT211204" data-analytics-click="prop3:click | see all eligible products" data-analytics-title="support | see all eligible products" data-analytics-exit-link="true" className="button button-gray button-size">See all eligible products</a>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section className="section section-router" data-component-list="RevealRouter FocusHandler" data-anim-scroll-group="Router">
+            <div className="router-container" data-analytics-region="router" data-analytics-activitymap-region-id="router">
+              <div className="router">
+                <div className="section-content" data-y data-fade="{&quot;start&quot;: &quot;a0b - 75vh&quot;, &quot;end&quot;:&quot;a0b - 70vh&quot;, &quot;breakpointMask&quot;:&quot;S&quot;}" style={{transform: 'matrix(1, 0, 0, 1, 0, 150)'}}>
+                  <figure className="image-router" data-scale data-fade="{&quot;start&quot;: &quot;a0b - 65vh&quot;, &quot;end&quot;: &quot;a0b - 40vh&quot;, &quot;breakpointMask&quot;: &quot;XLM&quot;}" style={{transform: 'matrix(0.9, 0, 0, 0.9, 0, 0)'}} />
+                  <div className="row" data-analytics-section-engagement="name:router">
+                    <div className="column large-8 large-offset-2 large-centered small-12 small-centered" data-fade="{&quot;start&quot;: &quot;a0b - 75vh&quot;, &quot;end&quot;: &quot;a0b - 55vh&quot;, &quot;breakpointMask&quot;: &quot;XLM&quot;}" style={{}}>
+                      <h3 className="router-headline typography-router-headline" tabIndex={0}>
+                        Get started.
+                      </h3>
+                    </div>
+                  </div>
+                  <div className="row">
+                    <div className="column large-10 large-offset-1 small-12 small-centered">
+                      <p className="router-subhead typography-router-subhead" data-fade="{&quot;start&quot;: &quot;a0b - 80vh&quot;, &quot;end&quot;: &quot;a0b - 70vh&quot;, &quot;breakpointMask&quot;: &quot;XLM&quot;}" style={{}}>
+                        Apply in the Wallet app and start using<br className="large medium" />
+                        Apple&nbsp;Card right&nbsp;away.<span className="footnote footnote-supglyph"><a href="https://www.apple.com/apple-card/monthly-installments/#footnote-1" aria-label="Footnote * symbol">*</a></span>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="row">
+                    <button aria-label="apply now for apple card" className="button button-apply button-light button-just-right initialized" data-apply-action="https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=" data-referrer="cid%3Dapy-200-100003" data-analytics-click="prop3:click | apply now" data-analytics-title="click | apply now" data-rid-relay="{&quot;287&quot;:&quot;referrer&quot;}" data-fade="{&quot;start&quot;: &quot;a0b - 85vh&quot;, &quot;end&quot;: &quot;a0b - 75vh&quot;, &quot;breakpointMask&quot;: &quot;XLM&quot;}" style={{}}>
+                      Apply now
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div className="scrim" style={{opacity: 1}} />
+            </div>
+          </section>
+        </main>
+        {/*/main*/}
+        <footer id="ac-globalfooter" className="js flexbox" lang="en-US" dir="ltr" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label">
+          <div className="ac-gf-content">
+            <h2 className="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+            <section className="ac-gf-sosumi" aria-label="Footnotes">
+              <ul>
+                <li id="footnote-1">
+                  <small>*</small> Subject to credit approval and credit limit.
+                </li>
+              </ul>
+              <ol>
+                <li id="footnote-2">
+                  Apple&nbsp;Card Monthly Installments is available for certain
+                  Apple products and is subject to credit approval and credit limit.
+                  See
+                  <a href="https://support.apple.com/kb/HT211204">https://support.apple.com/kb/HT211204</a>
+                  for more information about eligible products. iPhone activation
+                  required on iPhone purchases made at an Apple Store with one of
+                  these national carriers: AT&amp;T, Sprint, Verizon, or T-Mobile.
+                  Variable APRs for Apple&nbsp;Card other than Apple&nbsp;Card
+                  Monthly Installments range from 10.99% to 21.99% based on
+                  creditworthiness. Rates as of April 1, 2020. Taxes and shipping
+                  are not included in Apple&nbsp;Card Monthly Installments and are
+                  subject to your standard purchase APR. See the Apple&nbsp;Card
+                  customer agreement for more information. Apple&nbsp;Card Monthly
+                  Installments is available on Safari with iOS 13.2 or later and
+                  Safari with macOS 10.14.6 or later.
+                </li>
+                <li id="footnote-3">
+                  Trade In: Trade‑in values vary. iPhone promotional pricing is
+                  based on iPhone SE pricing after trade-in of iPhone 8 in good
+                  condition. Additional trade‑in values require purchase of a new
+                  iPhone, subject to availability and limits. Must be at least 18.
+                  Apple or its trade-in partners reserve the right to refuse or
+                  limit any Trade In transaction for any reason. In‑store trade‑in
+                  requires presentation of a valid, government-issued photo ID
+                  (local law may require saving this information). Sales tax may be
+                  assessed on full value of new iPhone. Additional terms from Apple
+                  or Apple’s trade-in partners may apply. Monthly pricing: Available
+                  to qualified customers and requires 0% APR, 24-month installment
+                  loan with Citizens One or Apple&nbsp;Card Monthly Installments and
+                  iPhone activation required on purchases made at an Apple Store
+                  with AT&amp;T, Sprint, T-Mobile, or Verizon. Taxes and shipping
+                  not included. Additional Apple&nbsp;Card Monthly Installments
+                  terms are in the Customer Agreement. Additional iPhone Payments
+                  terms are
+                  <a href="https://www.apple.com/legal/sales-support/iphoneinstallments_us/">here</a>.
+                </li>
+                <li id="footnote-4">
+                  Apple&nbsp;Card minimum payments are due at the end of the month.
+                </li>
+                <li id="footnote-5">
+                  An Apple&nbsp;Cash card is required. The Apple&nbsp;Cash card is
+                  issued by Green&nbsp;Dot&nbsp;Bank, Member&nbsp;FDIC. See
+                  <a href="https://www.apple.com/apple-pay/">apple.com/apple-pay</a>
+                  for more information. If you do not have an Apple&nbsp;Cash
+                  account, Daily&nbsp;Cash can be applied by you as a credit on your
+                  statement balance. Daily&nbsp;Cash is subject to exclusions, and
+                  additional details apply. See the Apple&nbsp;Card Customer
+                  Agreement for more information.
+                </li>
+              </ol>
+              <ul>
+                <li>
+                  To access and use all the features of Apple&nbsp;Card, you must
+                  add Apple&nbsp;Card to Wallet on an iPhone or iPad with iOS 12.4
+                  or later or iPadOS. To manage Apple&nbsp;Card Monthly
+                  Installments, you need an iPhone with iOS 13.2 or later or an iPad
+                  with iPadOS 13.2 or later. Update to the latest version of iOS or
+                  iPadOS by going to Settings &gt; General &gt; Software Update. Tap
+                  Download and Install.
+                </li>
+              </ul>
+            </section>
+            <nav className="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+              <a href="https://www.apple.com/" className="home ac-gf-breadcrumbs-home">
+                <span className="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
+                <span className="ac-gf-breadcrumbs-home-label">Apple</span>
+                <span className="ac-gf-breadcrumbs-home-chevron" />
+                <span className="ac-gf-breadcrumbs-home-mask" />
+              </a>
+              <div className="ac-gf-breadcrumbs-path">
+                <ol className="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+                  <li className="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                    <a className="ac-gf-breadcrumbs-link" href="https://www.apple.com/apple-card/" property="item" typeof="WebPage"><span property="name">Apple Card</span></a>
+                    <meta property="position" content={1} />
+                  </li>
+                  <li className="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                    <span property="name">Monthly Installments</span>
+                    <meta property="position" content={2} />
+                  </li>
+                </ol>
+              </div>
+            </nav>
+            <nav className="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation">
+              {/*googleoff: all*/}
+              <div className="ac-gf-directory-column">
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-products">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      Shop and Learn
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-products" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/mac/" data-analytics-title="mac">Mac</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/ipad/" data-analytics-title="ipad">iPad</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/iphone/" data-analytics-title="iphone">iPhone</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/watch/" data-analytics-title="watch">Watch</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/tv/" data-analytics-title="tv">TV</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/music/" data-analytics-title="music">Music</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/airpods/" data-analytics-title="airpods">AirPods</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/homepod/" data-analytics-title="homepod">HomePod</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/ipod-touch/" data-analytics-title="ipod touch">iPod touch</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/buy_accessories" data-analytics-title="accessories">Accessories</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/giftcards" data-analytics-title="gift cards">Gift Cards</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="ac-gf-directory-column">
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-services" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-services">
+                    <h3 className="ac-gf-directory-column-section-title">Services</h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-services" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-music/" data-analytics-title="apple music">Apple&nbsp;Music</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-news/" data-analytics-title="apple news plus">Apple&nbsp;News+</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-tv-plus/" data-analytics-title="apple tv plus">Apple&nbsp;TV+</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-arcade/" data-analytics-title="apple arcade">Apple&nbsp;Arcade</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-books/" data-analytics-title="apple books">Apple&nbsp;Books</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-card/" data-analytics-title="apple card">Apple&nbsp;Card</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/icloud/" data-analytics-title="icloud">iCloud</a>
+                    </li>
+                  </ul>
+                </div>
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-accounts">
+                    <h3 className="ac-gf-directory-column-section-title">Account</h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-accounts" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/" data-analytics-title="manage your apple id" data-analytics-exit-link>Manage Your Apple&nbsp;ID</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/account" data-analytics-title="apple store account">Apple Store Account</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.icloud.com/" data-analytics-title="icloud.com" data-analytics-exit-link>iCloud.com</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="ac-gf-directory-column">
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-storeservices">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      Apple Store
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-storeservices" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/retail/" data-analytics-title="find a store">Find a Store</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/shop" data-analytics-title="shop online">Shop Online</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/retail/geniusbar/" data-analytics-title="genius bar">Genius Bar</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/today/" data-analytics-title="today at apple">Today at Apple</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/today/camp/" data-analytics-title="apple camp">Apple Camp</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?pt=2003&ct=footer&mt=8" data-analytics-title="apple store app" data-analytics-exit-link>Apple Store App</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/special_deals" data-analytics-title="refurbished and clearance">Refurbished and Clearance</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/payment_plan" data-analytics-title="financing">Financing</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/trade_in" data-analytics-title="apple trade in">Apple&nbsp;Trade&nbsp;In</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/order/list" data-analytics-title="order status">Order Status</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/help" data-analytics-title="shopping help">Shopping Help</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="ac-gf-directory-column">
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-business">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      For Business
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-business" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/business/" data-analytics-title="apple and business">Apple and Business</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/retail/business/" data-analytics-title="shop for business">Shop for Business</a>
+                    </li>
+                  </ul>
+                </div>
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-education">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      For Education
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-education" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/education/" data-analytics-title="apple and education">Apple and Education</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/education/k12/how-to-buy/" data-analytics-title="shop for k12">Shop for K-12</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/educationrouting" data-analytics-title="shop for college">Shop for College</a>
+                    </li>
+                  </ul>
+                </div>
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-healthcare" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-healthcare">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      For Healthcare
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-healthcare" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/healthcare/" data-analytics-title="apple in healthcare">Apple in Healthcare</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/healthcare/apple-watch/" data-analytics-title="health on apple watch">Health on Apple&nbsp;Watch</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/healthcare/health-records/" data-analytics-title="health records on iphone">Health Records on iPhone</a>
+                    </li>
+                  </ul>
+                </div>
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-government" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-government">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      For Government
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-government" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/r/store/government/" data-analytics-title="shop for government">Shop for Government</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary" data-analytics-title="shop for veterans and military">Shop for Veterans and Military</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="ac-gf-directory-column">
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-responsibility">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      Apple Values
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-responsibility" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/accessibility/" data-analytics-title="accessibility">Accessibility</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/education/connectED/" data-analytics-title="education">Education</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/environment/" data-analytics-title="environment">Environment</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/diversity/" data-analytics-title="inclusion and diversity">Inclusion and Diversity</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/privacy/" data-analytics-title="privacy">Privacy</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/supplier-responsibility/" data-analytics-title="supplier responsibility">Supplier Responsibility</a>
+                    </li>
+                  </ul>
+                </div>
+                <input className="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about" />
+                <div className="ac-gf-directory-column-section">
+                  <label className="ac-gf-directory-column-section-label" htmlFor="ac-gf-directory-column-section-state-about">
+                    <h3 className="ac-gf-directory-column-section-title">
+                      About Apple
+                    </h3>
+                  </label>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#ac-gf-directory-column-section-state-about" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+                    <span className="ac-gf-directory-column-section-anchor-label">Open Menu</span>
+                  </a>
+                  <a href="https://www.apple.com/apple-card/monthly-installments/#" className="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+                    <span className="ac-gf-directory-column-section-anchor-label">Close Menu</span>
+                  </a>
+                  <ul className="ac-gf-directory-column-section-list">
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/newsroom/" data-analytics-title="newsroom">Newsroom</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/leadership/" data-analytics-title="apple leadership">Apple Leadership</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/jobs/us/" data-analytics-title="job opportunities">Job Opportunities</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://investor.apple.com/" data-analytics-title="investors" data-analytics-exit-link>Investors</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/apple-events/" data-analytics-title="events">Events</a>
+                    </li>
+                    <li className="ac-gf-directory-column-section-item">
+                      <a className="ac-gf-directory-column-section-link" href="https://www.apple.com/contact/" data-analytics-title="contact apple">Contact Apple</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              {/*googleon: all*/}
+            </nav>
+            <section className="ac-gf-footer">
+              <div className="ac-gf-footer-shop" x-ms-format-detection="none">
+                More ways to shop:
+                <a href="https://www.apple.com/retail/" data-analytics-title="find an apple store">Find an Apple Store</a>
+                or
+                <a href="https://locate.apple.com/" data-analytics-title="other retailers or resellers" data-analytics-exit-link>other retailer</a>
+                near you. <span className="nowrap">Or call 1-800-MY-APPLE.</span>
+              </div>
+              <div className="ac-gf-footer-locale">
+                <a className="ac-gf-footer-locale-link" href="https://www.apple.com/choose-country-region/" title="Choose your country or region" aria-label="United States. Choose your country or region" data-analytics-title="choose your country">United States</a>
+              </div>
+              <div className="ac-gf-footer-legal">
+                <div className="ac-gf-footer-legal-copyright">
+                  Copyright © 2020 Apple Inc. All rights reserved.
+                </div>
+                <div className="ac-gf-footer-legal-links">
+                  <a className="ac-gf-footer-legal-link" href="https://www.apple.com/legal/privacy/" data-analytics-title="privacy policy">Privacy Policy</a>
+                  <a className="ac-gf-footer-legal-link" href="https://www.apple.com/legal/internet-services/terms/site.html" data-analytics-title="terms of use">Terms of Use</a>
+                  <a className="ac-gf-footer-legal-link" href="https://www.apple.com/us/shop/goto/help/sales_refunds" data-analytics-title="sales and refunds">Sales and Refunds</a>
+                  <a className="ac-gf-footer-legal-link" href="https://www.apple.com/legal/" data-analytics-title="legal">Legal</a>
+                  <a className="ac-gf-footer-legal-link" href="https://www.apple.com/sitemap/" data-analytics-title="site map">Site Map</a>
+                </div>
+              </div>
+            </section>
+          </div>
+        </footer>
+        <link rel="stylesheet" href="./2nd page_files/ac-video.css" />
+        <span style={{visibility: 'hidden', position: 'absolute', top: '0px', bottom: '0px', zIndex: -1}}>&nbsp;<iframe style={{position: 'absolute', top: '0px', left: '0px', width: '100%', height: '100%'}} src="./2nd page_files/saved_resource.html" /></span>
+        <div id="viewport-emitter" data-viewport-emitter-dispatch data-viewport-emitter-state="{&quot;viewport&quot;:&quot;none&quot;,&quot;orientation&quot;:&quot;landscape&quot;,&quot;retina&quot;:false}" />
+        <div className="modal modal-standard modal-apply" aria-hidden="true" role="dialog" aria-label="Modal" aria-modal="true" tabIndex={-1} data-modal-close aria-labelledby="modal-apply-headline">
+          <div className="content-table">
+            <div className="content-cell" data-modal-close>
+              <div className="content-wrapper" data-modal-close>
+                <div className="content-padding large-8 medium-10">
+                  <div className="modal-content">
+                    <div className="modal-apply-content" data-apply-modal data-modal-close-label="Close">
+                      <div className="modal-apply-wrapper large-11 large-centered medium-9 small-10" role="dialog">
+                        <h2 id="modal-apply-headline" className="apply-headline typography-modal-headline small-offset-1" tabIndex={0}>
+                          Apply for Apple&nbsp;Card on&nbsp;your&nbsp;iPhone.
+                        </h2>
+                        <div className="wallet-copy-container" role="text">
+                          <figure className="image image-wallet" aria-hidden="true" />
+                          <p className="wallet-copy typography-modal-intro" aria-label="Open the Wallet app and tap 'add card' button">
+                            <span aria-hidden="true">Open the Wallet app and&nbsp;tap</span>
+                          </p>
+                        </div>
+                        <p className="watch-video-copy typography-modal-body">
+                          For a step-by-step walkthrough, <br className="small" />watch
+                          the video&nbsp;below.
+                        </p>
+                        <div className="apply-video-container" data-video-container="/105/media/us/apple-card/2020/53f631e5-305f-4ec8-8eb6-057df67c4579/films/how-to/apply/apple-card-apply-tpl-cc-us-2019_1280x720h.mp4" data-analytics-id="apply-modal-video">
+                          <div className="ac-video-player idle-state small" data-analytics-id="apply-modal-video">
+                            <video className="ac-video-media-controller" crossOrigin="anonymous" preload="auto" x-webkit-airplay aria-hidden="true" src="/105/media/us/apple-card/2020/53f631e5-305f-4ec8-8eb6-057df67c4579/films/how-to/apply/apple-card-apply-tpl-cc-us-2019_1280x720h.mp4">
+                              <source src="/105/media/us/apple-card/2020/53f631e5-305f-4ec8-8eb6-057df67c4579/films/how-to/apply/apple-card-apply-tpl-cc-us-2019_1280x720h.mp4" />
+                              <track src="/105/media/us/apple-card/2020/53f631e5-305f-4ec8-8eb6-057df67c4579/films/how-to/apply/apple-card-apply-tpl-cc-us-2019_cc.vtt" kind="captions" srcLang="en" label="English" />
+                            </video>
+                            <div className="ac-video-poster">
+                              <img src="./2nd page_files/ac_video_poster_960x540.jpg" alt="" />
+                            </div>
+                            <div style={{}} className="ac-video-controls start-state">
+                              <div className="controls-container">
+                                <div className="controls-social-tray hidden">
+                                  <div>
+                                    <div className="sharing-state">
+                                      <div className="container" data-acv-active-area>
+                                        <div className="social-sharing-container">
+                                          <div className="sharing-button-container">
+                                            <button className="acv-fb-share ac-video-icon icon-share_fb" aria-label="Share to Facebook, Opens in New Window" />
+                                            <button className="acv-tw-share ac-video-icon icon-share_twitter" aria-label="Share to Twitter, Opens in New Window" />
+                                            <button className="copy-link ac-video-icon icon-share_link" aria-label="Copy Link" />
+                                            <button className="copy-embed-code ac-video-icon icon-share_embed" aria-label="Copy Embed Code" />
+                                          </div>
+                                        </div>
+                                        <div className="textarea-container">
+                                          <span>
+                                            <input className="copy-area form-textbox form-textbox-text disabled" type="text" id="copy-link" aria-label="Copy Link" />
+                                            <button className="textinput-close-button ac-video-icon icon-share_close" aria-label="Dismiss Copy" />
+                                          </span>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div className="center-button-container controls-play-pause-button-container">
+                                  <div className="button-wrapper">
+                                    <button type="button" className="ac-video-icon centered-button controls-play-pause-button controls-button no-autoplay" value="Play" aria-label="Play" role="button" tabIndex={0} data-acv-active-area data-acv-draggable-area>
+                                      <div className="loading-indicator-container">
+                                        <div className="loading-indicator">
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                          <div />
+                                        </div>
+                                      </div>
+                                    </button>
+                                    <span id="loading-status" className="acv-visually-hidden" aria-live="polite" />
+                                  </div>
+                                </div>
+                                <div className="main-controls-container control-bar-skin-default">
+                                  <div className="ac-video-overlay-container">
+                                    <div className style={{opacity: 1}}>
+                                      <div className="ac-video-trickplay hidden" aria-hidden="true">
+                                        <div className="ac-video-trickplay-image" style={{backgroundSize: '12000% 100%', backgroundImage: 'url("/105/media/us/apple-card/2020/53f631e5-305f-4ec8-8eb6-057df67c4579/films/how-to/apply/apple-card-apply-tpl-cc-us-2019_thumbnails.jpg")'}} />
+                                        <div className="ac-video-trickplay-chapter-title" />
+                                        <div className="ac-video-trickplay-time" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div className="main-controls">
+                                    <div className="button-wrapper">
+                                      <div className="main-controls-item controls-volume">
+                                        <button type="button" className="ac-video-icon controls-toggle-mute-volume-button controls-button" value="Toggle Mute Volume" aria-label="Toggle Mute Volume" role="button" tabIndex={0} data-acv-active-area aria-pressed="false" />
+                                        <div className="controls-volume-level-indicator ac-slider-container ac-slider-inactive" tabIndex={0} aria-valuemin={0} aria-valuemax={100} min={0} max={100} aria-label="Adjust Volume" role="slider" aria-orientation="vertical" step="0.05" data-acv-active-area aria-valuenow={100}>
+                                          <div className="ac-slider-runnable-track">
+                                            <div className="ac-slider-background" />
+                                            <div className="ac-slider-thumb-wrapper">
+                                              <div className="ac-slider-thumb">
+                                                <div className="ac-slider-thumb-background-wrapper">
+                                                  <div className="ac-slider-thumb-background" />
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div className="ac-slider-inner-track">
+                                              <div className="ac-slider-scrubbed" />
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="button-wrapper">
+                                      <button type="button" className="ac-video-icon main-controls-item controls-text-tracks-toggle-button controls-button" value="Closed Captions" aria-label="Closed Captions" role="button" tabIndex={0} data-acv-active-area aria-pressed="false" />
+                                      <div className="ac-video-captions-selector-container">
+                                        <span className="ac-video-captions-selector-title">Subtitles</span>
+                                        <ul className="controls-captions-selector" role="radiogroup" aria-label="Subtitles" data-acv-active-area>
+                                          <li role="radio" className="showing" aria-checked="true" tabIndex={0}>
+                                            Off
+                                          </li>
+                                          <li role="radio" aria-checked="false" tabIndex={-1}>
+                                            English
+                                          </li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                    <div className="main-controls-item controls-progress">
+                                      <div className="controls-progress-time controls-progress-time-1">
+                                        <div className="controls-elapsed-time-indicator" role="text" tabIndex={-1}>
+                                          <span className="label">elapsed</span>
+                                          <span className="controls-elapsed-time">00:00</span>
+                                          <span className="controls-time-maxwidth" aria-hidden="true">44:44</span>
+                                        </div>
+                                      </div>
+                                      <div className="controls-progress-bar">
+                                        <div className="controls-buffered-indicator" />
+                                        <div className="controls-progress-indicator ac-slider-container" precision="float" min={0} max={1} step="0.0005" value={0} tabIndex={-1} aria-valuemax={1} aria-valuemin={0} aria-valuenow={0} data-acv-active-area aria-hidden>
+                                          <div className="ac-slider-ax-track" role="slider" aria-valuemin={0} aria-valuemax={1} tabIndex={0} aria-valuenow={0} aria-valuetext="0 minutes and 0 seconds" />
+                                          <div className="ac-slider-runnable-track">
+                                            <div className="ac-slider-hover-track">
+                                              <div className="ac-slider-hover-notch" />
+                                            </div>
+                                            <div className="ac-slider-thumb">
+                                              <div className="ac-slider-thumb-background-wrapper">
+                                                <div className="ac-slider-thumb-overlay" />
+                                                <div className="ac-slider-thumb-background" />
+                                              </div>
+                                            </div>
+                                            <div className="ac-slider-chapters-track" />
+                                            <div className="ac-slider-inner-track">
+                                              <div className="ac-slider-buffered" style={{left: '34.697%'}} />
+                                              <div className="ac-slider-scrubbed" />
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div className="controls-progress-time controls-progress-time-2">
+                                        <div className="controls-remaining-time-indicator" role="text" tabIndex={-1}>
+                                          <span className="label">remaining</span>
+                                          <span className="controls-remaining-time">-00:40</span>
+                                          <span className="controls-time-maxwidth" aria-hidden="true">-44:44</span>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="main-controls-item live-stream">
+                                      <span className="live-stream-text">Live Streaming</span>
+                                    </div>
+                                    <div className="button-wrapper">
+                                      <button type="button" className="ac-video-icon main-controls-item controls-airplay-button controls-button airplay-unsupported" value="AirPlay" aria-label="AirPlay" role="button" tabIndex={0} data-acv-active-area aria-pressed="false" />
+                                    </div>
+                                    <div className="button-wrapper">
+                                      <button type="button" className="ac-video-icon main-controls-item controls-picture-in-picture-button controls-button picture-in-picture-unsupported" value="Picture-in-Picture" aria-label="Picture-in-Picture" role="button" tabIndex={0} data-acv-active-area aria-pressed="false" />
+                                    </div>
+                                    <div className="button-wrapper">
+                                      <button type="button" className="ac-video-icon main-controls-item controls-full-screen-button controls-button" value="Full Screen" aria-label="Full Screen" role="button" tabIndex={0} data-acv-active-area aria-pressed="false" />
+                                    </div>
+                                  </div>
+                                </div>
+                                <div className="end-state-wrapper">
+                                  <div className="end-state-container hidden" />
+                                </div>
+                              </div>
+                              <div className="compass-wrapper" data-acv-active-area>
+                                <div className="compass-background ac-video-icon" />
+                                <div className="compass-arrows">
+                                  <button className="compass-arrow-top ac-video-icon" aria-label="Move 360 Point of View Up" role="button" tabIndex={0} />
+                                  <button className="compass-arrow-right ac-video-icon" aria-label="Move 360 Point of View Right" role="button" tabIndex={0} />
+                                  <button className="compass-arrow-bottom ac-video-icon" aria-label="Move 360 Point of View Down" role="button" tabIndex={0} />
+                                  <button className="compass-arrow-left ac-video-icon" aria-label="Move 360 Point of View Left" role="button" tabIndex={0} />
+                                </div>
+                                <div className="compass-field ac-video-icon" />
+                                <div className="compass-ring ac-video-icon" />
+                                <button className="compass" aria-label="Return 360 Point of View to Origin" role="button" tabIndex={0} />
+                              </div>
+                            </div>
+                            <div className="ac-video-blockade" />
+                            <div className="error-state-wrapper" />
+                          </div>
+                        </div>
+                        <p className="disclaimer typography-modal-disclaimer">
+                          Apple&nbsp;Card is available on iPhone&nbsp;6 or later,
+                          running the latest version of&nbsp;iOS.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <button className="modal-close" data-modal-close aria-label="Close" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="ci-extension-div" />
+        <div cssdimensionstracker="true" style={{position: 'fixed', top: '0px', width: '100%', height: '100vh', pointerEvents: 'none', visibility: 'hidden', zIndex: -1}} />
+      </div>
+    );
+  }
+});
